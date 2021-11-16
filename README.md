@@ -2,7 +2,7 @@
 
 ## [Demo](https://shoppingcardskmy.netlify.app/)
 
-<img src="https://raw.githubusercontent.com/shopping-cards/master/shopping-cards.gif" alt="shopping-cards" width="600" />
+<img src="https://raw.githubusercontent.com/kamilmuratyilmaz/shopping-cards/master/shopping-cards.gif" alt="shopping-cards" width="600" />
 
 ### Project Overwiev
 ---
